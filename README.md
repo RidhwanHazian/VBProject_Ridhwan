@@ -1,1 +1,1 @@
-This is my group project of CSC305 course of my diploma, It is a fully functional system and rated high among all student.
+This is my group project of CSC305 course of my diploma, It is a fully functional system and rated high among all student. As the programmer of the group project I made sure the admin and customer function is functional and user friendly. This helps user manage the system with ease.
