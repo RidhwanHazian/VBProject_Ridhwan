@@ -31,7 +31,7 @@ It showcases:
 
 ---
 
-## 👨‍💻 How to Run  
+## 👨‍💻 How to Run
 1. Clone this repo  
    ```bash
    git clone https://github.com/RidhwanHazian/VBProject_Ridhwan.git
@@ -42,6 +42,6 @@ It showcases:
 
 ---
 
-🎓 Academic Context
+## 🎓 Academic Context 
 
 Developed as part of the Diploma in Computer Science (UiTM, Jasin) course requirements for CSC301.
