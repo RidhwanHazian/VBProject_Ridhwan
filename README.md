@@ -1,4 +1,4 @@
-# VBProject_Ridhwan 🎯  
+# Visual Basic Project 🎯  
 
 A Visual Basic .NET application developed as part of our group project for **M3CS1103D**. This project focuses on solving real-world problems through structured programming, database integration, and a user-friendly interface.  
 
