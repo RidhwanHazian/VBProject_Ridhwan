@@ -41,7 +41,12 @@ It showcases:
 3. Build and run the application
 
 ---
+
+## 📽️ Demo Video
 [👉 View Demo Video](https://drive.google.com/drive/folders/1h_VvyZ19BM4cnIK9voctSeAzKMQkunPm)
+
+---
+
 ## 🎓 Academic Context 
 
 Developed as part of the Diploma in Computer Science (UiTM, Jasin) course requirements for CSC301.
