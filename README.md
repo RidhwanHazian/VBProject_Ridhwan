@@ -25,7 +25,7 @@ It showcases:
 ## 🛠️ Tech Stack  
 - **Language:** VB.NET  
 - **IDE:** Visual Studio  
-- **Database:** Microsoft Access / SQL (if applicable from your report)  
+- **Database:** Microsoft Access 
 - **OS:** Windows  
 
 
